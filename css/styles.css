@@ -1,6 +1,6 @@
 
 p {
-    font-size: 15px;
+    font-size: 30px;
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -8,20 +8,20 @@ h1,
 h2,
 h3 {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-family:'Times New Roman', Times, serif;
 }
 
 h1 {
-    font-size: 40px;    
+    font-size: 70px;    
 } 
 
 h2 {
-    font-size: 25px; 
+    font-size: 40px; 
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 ul {
@@ -29,7 +29,9 @@ ul {
     list-style: none;
 }
 
+
 body {
+    text-decoration: none;
     position: relative;
     width: 1100px;
        
@@ -46,77 +48,102 @@ body {
     text-align: center;
 }
 
+.logo {  
+    position: absolute;
+    top: 30px;
+    right: 500px;
+    width: 100px;
+    height: 100px;
+}
 
 .logo1 {   
     position: absolute;
     top: 30px;
-    right: 140px;
-    width: 70px;
-    height: 70px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
 }
 
 .logo2 {   
     position: absolute;
-    top: 1580px;
-    right: 140px;
+    top: 1570px;
+    right: 50px;
     width: 70px;
     height: 70px;
 }
 
 .logo3 {   
     position: absolute;
-    top: 3150px;
-    right: 140px;
+    top: 3130px;
+    right: 50px;
     width: 70px;
     height: 70px;
 }
 
-.logo {  
+.logo4 {   
     position: absolute;
-    top: 30px;
+    top: 4700px;
+    right: 50px;
     width: 70px;
     height: 70px;
 }
+
+.logo5 {   
+    position: absolute;
+    top: 6280px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+}
+.logo6 {   
+    position: absolute;
+    top: 7850px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+}
+
 
 .fio {
     position: absolute;
-    top: 90px;
-    right: 100px;
+    top: 120px;
+    right: 40px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .date {
-    width: 40px;
+    width: 80px;
 
 }
 
 .price,
 .renter,
 .landlord {
-    width: 70px;
+    width: 140px;
 }
 
 .description {
-    width: 35px;
+    width: 50px;
 }
 
 .name {
-    width: 500px;
+    width: 700px;
 }
 
 .total {
     width: 100px;
 }
 
-/* .item {  
-    width: 600px;
-} */
 .counters {
-    width: 150px;
+    width: 300px;
 }
 
 .text {
     width: 1000px;
     text-align: center;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 
