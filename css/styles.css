@@ -13,7 +13,7 @@ h3 {
 }
 
 h1 {
-    font-size: 70px;    
+    font-size: 45px;    
 } 
 
 h2 {
@@ -22,6 +22,12 @@ h2 {
 
 h3 {
     font-size: 30px;
+}
+
+input {
+    height: 40px;
+    border: 1px solid black;
+   
 }
 
 ul {
@@ -59,47 +65,47 @@ body {
 .logo1 {   
     position: absolute;
     top: 30px;
-    right: 50px;
-    width: 100px;
+    right: 40px;
+    width: 120px;
     height: 100px;
 }
 
 .logo2 {   
     position: absolute;
     top: 1570px;
-    right: 50px;
-    width: 70px;
+    right: 40px;
+    width: 85px;
     height: 70px;
 }
 
 .logo3 {   
     position: absolute;
-    top: 3130px;
-    right: 50px;
-    width: 70px;
+    top: 3140px;
+    right: 40px;
+    width: 85px;
     height: 70px;
 }
 
 .logo4 {   
     position: absolute;
     top: 4700px;
-    right: 50px;
-    width: 70px;
+    right: 40px;
+    width: 85px;
     height: 70px;
 }
 
 .logo5 {   
     position: absolute;
     top: 6280px;
-    right: 50px;
-    width: 70px;
+    right: 40px;
+    width: 85px;
     height: 70px;
 }
 .logo6 {   
     position: absolute;
     top: 7850px;
-    right: 50px;
-    width: 70px;
+    right: 40px;
+    width: 85px;
     height: 70px;
 }
 
