@@ -63,17 +63,52 @@ hr {
     border: 1px solid black;
 }
 
-.container {  
+.container1 {  
     
-    /* border: 2px solid red ; */
+    border: 2px solid red ;
     text-align: center;
     padding: 0px 20px;
     margin-bottom: 100px;
           
 }
 
+.container2 {  
+    
+    border: 2px solid red ;
+    text-align: center;
+    padding: 0px 20px;
+    margin-bottom: 100px;
+          
+}
 
-.inp {
+.container3 {  
+    
+    border: 2px solid red ;
+    text-align: center;
+    padding: 0px 20px;
+    margin-bottom: 100px;
+          
+}
+
+.container4 {  
+    
+    border: 2px solid red ;
+    text-align: center;
+    padding: 0px 20px;
+    margin-bottom: 100px;
+          
+}
+
+.container5 {  
+    
+    border: 2px solid red ;
+    text-align: center;
+    padding: 0px 10px;
+    /* margin-bottom: 100px; */
+          
+}
+
+.inp { 
     margin-top: 250px;
 
 }
@@ -95,17 +130,18 @@ h1 {
 } 
 
 h2 {
-    font-size: 30px; 
+    font-size: 25px;
+    margin: 0px; 
 }
 
 
 p {
     font-size: 25px;
-    margin: 0px;
+    margin: 2px;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 20px;
     margin: 0px;
    
 }
@@ -153,7 +189,6 @@ h3 {
 }
 
 .counters {
-    margin: 0;
     width: 300px;
     text-align: center;
     
