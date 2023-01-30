@@ -65,7 +65,7 @@ hr {
 
 .container1 {  
     
-    border: 2px solid red ;
+    /* border: 2px solid rgb(129, 124, 124) ; */
     text-align: center;
     padding: 0px 20px;
     margin-bottom: 100px;
@@ -74,7 +74,7 @@ hr {
 
 .container2 {  
     
-    border: 2px solid red ;
+    /* border: 2px solid rgb(129, 124, 124) ; */
     text-align: center;
     padding: 0px 20px;
     margin-bottom: 100px;
@@ -83,7 +83,7 @@ hr {
 
 .container3 {  
     
-    border: 2px solid red ;
+    /* border: 2px solid rgb(129, 124, 124) ; */
     text-align: center;
     padding: 0px 20px;
     margin-bottom: 100px;
@@ -92,7 +92,7 @@ hr {
 
 .container4 {  
     
-    border: 2px solid red ;
+    /* border: 2px solid rgb(129, 124, 124) ; */
     text-align: center;
     padding: 0px 20px;
     margin-bottom: 100px;
@@ -101,7 +101,7 @@ hr {
 
 .container5 {  
     
-    border: 2px solid red ;
+    /* border: 2px solid rgb(129, 124, 124) ; */
     text-align: center;
     padding: 0px 10px;
     /* margin-bottom: 100px; */
