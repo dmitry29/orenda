@@ -204,9 +204,32 @@ h3 {
     
 }
 
+.counters1 {
+   color: blue;
+    
+}
+
 .recvizit {
     
-    margin-top: 20px;
+    margin-top: 15px;
     justify-content: center;
 }
+
+#name {
+    display: inline-block;
+    margin-right: 250px;
+    
+}
+
+#name1 {
+    display: inline-block;
+    margin: 15px;
+    
+}
+#name2 {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 
